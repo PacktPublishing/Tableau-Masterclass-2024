@@ -1,0 +1,33 @@
+Quiz 1
+
+Q1. When publishing a workbook, we can: (Select all that apply)
+A. Publish the data sources embedded.
+B. Publish the data sources separately.
+C. Not publish the data sources at all.
+Correct Answer: A, B
+
+
+Q2. When publishing a workbook, we can only publish the dashboards.
+	TRUE/FALSE
+Correct Answer: False
+
+
+Q3. When publishing a data source, Tableau automatically updates the workbook to use the published data source.
+	TRUE/FALSE
+Correct Answer: False
+
+
+Q4. Which of the following statements are true
+A. Alerts will send us an email attachment with a screenshot of the dashboard and worksheets that we chose, subscriptions will send us an email when data has reached a certain threshold.
+B. Subscriptions will send us an email attachment with a screenshot of the dashboard and worksheets that we chose, alerts will send us an email when data has reached a certain threshold.
+Correct Answer: B
+
+
+Q6. We can set up subscriptions to be sent to multiple users at the same time
+	TRUE/FALSE
+Correct Answer: True
+
+
+Q7. The frequency options of data extract refreshes are Daily, Weekly or Monthly
+	TRUE/FALSE
+Correct Answer: False

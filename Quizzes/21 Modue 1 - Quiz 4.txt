@@ -1,0 +1,29 @@
+Q1. What are the default properties that we can change for a categorical field?
+A. Comment/Colour/Number Format/Sort
+B. Comment/Colour/Shape/Sort
+C. Comment/Colour/Shape/Date Format
+D. Comment/Colour/Shape/Aggregation
+Correct Answer: B
+
+
+Q2. What are the default properties that we can change for a date field?
+A. Comment/Colour/Shape/Date Format
+B. Comment/Colour/Shape/Sort
+C. Comment/Colour/Number Format/Sort
+D. Comment/Colour/Shape/Date Format/Sort/Fiscal Year
+E. Comment/Colour/Shape/Date Format/Fiscal Year
+Correct Answer: D
+
+
+Q3. We can change the data types of date and string fields, but not numerical fields.
+	TRUE/FALSE
+Correct Answer: False
+
+
+Q4. Which data source types can we use the data interpreter for?
+A. CSV, Excel, PDF, Tableau Server
+B. CSV, Google Sheets, Excel
+C. Excel, CSV, PDF, Google Sheets
+D. Tableau Server, CSV, Google Sheets
+Correct Answer: C
+	

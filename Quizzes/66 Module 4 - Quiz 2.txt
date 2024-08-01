@@ -1,0 +1,16 @@
+Q1. Fixed LOD (Level of Detail) calculations allow us to write calculations regardless of the granularity of the view.
+   TRUE/FALSE
+Correct Answer: True
+
+
+Q2. What is the correct syntax for a Fixed LOD calculation
+A. fixed { category, subcategory : (sales) }
+B. { fixed category, subcategory : sum(sales) }
+C. { fixed category, subcategory : } (sales)
+Correct Answer: B
+
+
+Q3. What is the STR function used for?
+A. When we want to convert a string function to a date field.
+B. When we want to convert a field into a string field.
+Correct Answer: B

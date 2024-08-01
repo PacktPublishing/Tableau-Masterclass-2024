@@ -1,0 +1,25 @@
+Q1. Which of the following is FALSE about dimensions and measures? Select all that apply
+A. A value of the measure is dependant on the dimension
+B. A value of the dimension is dependant on the meausre
+C. A value of a dimension is not dependant on a measure
+D. A value of the measure is not dependant on the dimension
+Correct Answer: B & D
+
+
+Q2. Which of the following is TRUE about dimensions and measures?
+A. When you drag a dimension to the view, it creates headers and when you drag a measure to the view it creates axis.
+B. When you drag a dimension to the view, it creates axis and when you drag a measure to the view it creates headers.
+Correct Answer: A
+
+
+Q3. Which of the following is TRUE about discrete and continuous fields?
+A. A discrete field can be identified by a blue pill, whereas a continuous field can be identified by a green pill.
+B. A discrete field can be identified by a green pill, whereas a continuous field can be identified by a blue pil.
+C. Neither, the colour of the pills don't necesarrily determine whether the field is discrete or comntinuous.
+Correct Answer: A
+
+
+Q4. Measures can be used as discrete or continuous fields?
+    TRUE/FALSE
+Correct Answer: True
+

@@ -1,0 +1,23 @@
+Q1. When would we want to use aggregation in Tableau prep? Select all that apply.
+A. When we want to change the level of granularity of our data set.
+B. When we want to minimize the amount of data in our flow.
+C. When we want to ensure that the dataset is compatible with others before applying joins.
+D. All of the above
+Correct Answer: D
+
+
+Q2. Creating aggregate tables in Tableau Prep improves the performance of our flow.
+   TRUE/FALSE
+Correct Answer: True
+
+
+Q3. What is the file type of the data source produced by a Tableau Prep flow?
+A. .csv
+B. .hyper
+C. .xlsx
+Correct Answer: B
+
+
+Q4. A union in Tableau Prep is the same as a union in Tableau Desktop?
+   TRUE/FALSE
+Correct Answer: True

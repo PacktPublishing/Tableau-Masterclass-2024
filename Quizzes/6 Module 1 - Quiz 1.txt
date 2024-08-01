@@ -1,0 +1,31 @@
+Quiz 1
+
+Q1. Tableau Desktop is a paid service, but how long is the free trail offer?
+   A. 7 Days
+   B. 14 Days
+   C. 30 Days
+Correct Answer: B
+
+
+Q2. Tableau can only connect to two different file types, excel files and CSV files.
+   A. TRUE/FALSE
+Correct Answer: False
+
+
+Q3. Which of the following are true about data extracts? (1)
+   A. Extracts are usually slower than live connections
+   B. Extracts are usually faster than live connections
+Correct Answer: B
+  
+
+Q4. Which of the following are true about data extracts? (2)
+   A. Extracts update automatically
+   B. Extracts need to be refershed to capture the latest data
+Correct Answer: B
+
+
+Q5. When would be a good idea to use a live connection?
+   A. When we are working with a large and complex data set
+   B. When working with data that only updates once per month.
+   C. When the end users of the dashboard would benefit from real time updates.
+Correct Answer: C

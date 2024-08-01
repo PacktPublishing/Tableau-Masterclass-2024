@@ -1,0 +1,40 @@
+Q1. We can independantly scale the height and width of our dashboard
+	TRUE/FALSE
+Correct Answer: True
+
+
+Q2. Which different device types can we develop dashboards for?
+A. Default
+B. Desktop
+C. Tablet
+D. Phone
+E. All of the above
+Correct Answer: E
+
+
+Q3. We can develop dashboards for specific models of different divice types?
+	TRUE/FALSE
+Correct Answer: True
+
+ 
+
+Q4. Which of the following are dashboard action triggers? Select all that apply
+A. Select
+B. Hover
+C. Show all values
+D. Menu
+Correct Answer: A, B, D
+
+
+
+Q5. We can view the data for an individual data point, and full visualisation, and a full data source.
+	TRUE/FALSE
+Correct Answer: True
+
+
+Q6. When we are prompted to save a data download after viewing, what is the file type?
+A. .hyper
+B. .csv
+C. .xlsx
+Correct Answer: B
+

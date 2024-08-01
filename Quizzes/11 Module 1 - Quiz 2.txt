@@ -1,0 +1,33 @@
+Q1. Joins are created in the physical layer, and relationships and created in the logical layer?
+	TRUE/FALSE
+Correct Answer: True
+
+
+Q2. Which of the following are false about joins and relationships? Select all that apply
+   A. In most cases it is better to use a relationship than a join
+   B. In most cases it is better to use a join than a relationship
+   C. Relationships merge two tables together into one single table
+   D Using a join may result in losing data because of mismatches.
+Correct Answer: B & C
+
+
+Q3. Which of the following are the join type options in Tableau? Select all that apply
+   A. Inner
+   B. Upper
+   C. Outer
+   D. Left
+   E. Bottom
+   F. Right
+Correct Answer: A, C, D, F
+
+
+Q4. An inner join results in a table that contains records only when there is a match between the two tables.
+	TRUE/FALSE
+Correct Answer: True
+
+
+Q5. When may you want to use a Custom SQL Query?
+   A. When you are connecting to a spreadsheet and you want to minimize the data you are pulling from the table.
+   B. When you are connecting to a .hyper file and you want to minimize the data you are pulling from the table.
+   C. When you are connecting to a database and you want to minimize the data you are pulling from the table.
+Correct Answer: C

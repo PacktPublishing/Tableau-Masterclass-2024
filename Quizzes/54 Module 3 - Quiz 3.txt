@@ -1,0 +1,50 @@
+Q1. If you want to sort a view that has multiple panes and in each pane sort from highest value to lowest value which of the following sort types would you use?
+A. Ascending
+B. Descending
+C. Data Source Order
+D. Nested Sort
+Correct Answer: D
+
+
+Q2. What are the different sorting options in Tableau? Select all that apply
+A. Alphabetic
+B. Nested
+C. Data Source Order
+D. Field
+E. Manual
+Correct Answer: A, B, C, D, E
+
+	
+Q3. As a Tableau developer we have to code our own quick table calculations before using them in a view.
+TRUE/FALSE
+Correct Answer: False
+
+
+Q4. If you had a data set that contained the different ages of a population that voted in an election what visual type would best suit this data?
+A. Line Chart
+B. Bar Chart
+C. Scatter Plot
+D. Histogram
+Correct Answer: D
+
+
+Q5. What do you always need to create in order to create a histogram?
+A. Sins
+B. Bins
+C. Fins
+D. Pins
+Correct Answer: B
+
+
+Q6 Which feature can we provide to end users of the dashboard to dynamically change visualisations?
+A. Sets
+B. Parameters
+C. Reference Lines
+D. Worksheet Totals
+Correct Answer: B
+
+
+Q7. Which of the following Tableau features allow us to create our own data using pre defined Tableau functions?
+A. Quick Table Calculations
+B. Calculated Fields 
+Correct Answer: B

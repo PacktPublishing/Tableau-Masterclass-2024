@@ -1,0 +1,22 @@
+Q1. You can only union two tables together?
+   A. TRUE/FALSE
+Correct Answer: False
+
+
+Q2. In order to create a union the tables used have to come from the same connection?
+   A. TRUE/FALSE
+Correct Answer: True
+
+
+Q3. Which of the following statements are correct?
+   A. The blue tick represents the primary data source and the oragne tick represents the secondary data source.
+   B. The blue tick represents the secondary data source and the oragne tick represents the primary data source.
+Correct Answer: A
+
+
+Q4. Data blending cannot be successful unless you have a:
+   A. Connection
+   B. Join
+   C. Blend Relationship
+   D. Relationship
+Correct Answer: C

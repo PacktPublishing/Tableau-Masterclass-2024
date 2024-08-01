@@ -1,0 +1,43 @@
+Q1. Which of the following chart types is best to use when we want to split a bar chart by a further dimension?
+A. Duel Axis Chart
+B. Stacked Bar Chart
+C. Combined Axis Chart
+D. Line Chart
+Correct Answer: B
+
+
+Q2. Which map type should we use when we want to visualise the clusters of activity?
+A. Normal Map
+B. Street Map
+C. Satelite Map
+D. Density Map
+Correct Answer: D
+
+
+Q3. Which icon represents a group field?
+A. 3 Person Icon
+B. 2 Person Icon
+C. Paperclip Icon
+D. Single Circle Icon
+Correct Answer: C
+
+
+Q4. When we want to highlight a certain sub set of values and use that sub set to help us create other insighful visuals it is best to use:
+A. Filters
+B. Measures
+C. Groups
+Correct Answer: C
+
+
+Q5. Multiple fields that are stored together in a logical order that can be used in a view to dynamically change the granularity of the view are called a
+A. Parameter
+B. Hierarchy
+C. Quick Table Calculation
+Correct Answer: B
+
+
+Q6. This tableau feature can be used to group data points together based on a certain user defined condition
+A. Groups
+B. Sets
+Correct Answer: B
+	

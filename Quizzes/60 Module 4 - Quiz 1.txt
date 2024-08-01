@@ -1,0 +1,29 @@
+Q1. What does the DATEPARSE function do?
+A. Convert a date field to a string field.
+B. Return true or false if the field is a date.
+C. Convert a string field to a date field.
+Correct Answer: C
+
+
+Q2. Using the DATEADD function we can subtract date parts as well as add them.
+TRUE/FALSE
+Correct Answer: TRUE
+
+
+Q3. The TODAY function returns the current date including the time of day.
+TRUE/FALSE
+Correct Answer: FALSE
+
+
+Q4. Which of the following functions will return the distinct number of values?
+A. COUNT
+B. MAX
+C. WINDOW_MAX
+D. COUNTD
+Correct Answer: D
+
+
+Q5. What is the correct syntax for the IIF function?
+A. IIF(<condition>, '<when false>', '<when true>') 
+B. IIF(<condition>, '<when true>', '<when false>')  
+Correct Answer: B
